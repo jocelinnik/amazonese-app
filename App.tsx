@@ -1,20 +1,23 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import { StatusBar } from "expo-status-bar";
+import React, { FC, JSX } from "react";
+import { SafeAreaProvider } from "react-native-safe-area-context";
 
-export default function App() {
-  return (
-    <View style={styles.container}>
-      <Text>Open up App.tsx to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
-  );
-}
+import { Router } from "./src/telas/routes";
+import { AlertasProvider } from "./src/ui/context/alertas.context";
+import { AutenticacaoProvider } from "./src/ui/context/autenticacao.context";
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
+const App: FC = (): JSX.Element => {
+
+    return (
+        <SafeAreaProvider>
+            <StatusBar style="auto" translucent backgroundColor="transparent" />
+            <AutenticacaoProvider>
+                <AlertasProvider>
+                    <Router />
+                </AlertasProvider>
+            </AutenticacaoProvider>
+        </SafeAreaProvider>
+    );
+};
+
+export default App;

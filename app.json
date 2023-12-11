@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "amazonese-app",
+    "name": "Amazone-se",
     "slug": "amazonese-app",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -11,20 +11,40 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
     "assetBundlePatterns": [
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "br.com.amazonese.amazoneseapp"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "br.com.amazonese.amazoneseapp",
+      "versionCode": 1
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      [
+        "expo-location",
+        {
+          "locationAlwaysAndWhenInUsePermission": "Permita que o Amazone-se use sua localização.",
+          "isAndroidBackgroundLocationEnabled": true
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "640d1f99-630d-483f-ae3b-dde55ef16cf7"
+      }
     }
   }
 }

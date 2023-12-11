@@ -1,0 +1,74 @@
+[
+    {
+        "nome": "Festival Folclórico de Parintins",
+        "categorias": ["Música", "Dança", "Cultura"],
+        "data_inicio": "28/07/2023",
+        "data_fim": "31/07/2023",
+        "preco": "Gratuito",
+        "localidade": {
+            "cidade": "Parintins",
+            "uf": "AM"
+        },
+        "descricao": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita unde reprehenderit provident nihil, similique sit, maxime facilis nobis laboriosam rerum fugiat esse iure ea odit amet assumenda, laborum labore maiores?\nLorem, ipsum dolor sit amet consectetur adipisicing elit. Iusto officia reiciendis ullam cupiditate recusandae doloribus. Culpa, accusantium cum. Quos rerum totam eveniet ea delectus tenetur, pariatur odit magni laboriosam alias.\nLorem ipsum dolor sit amet consectetur adipisicing elit. Sequi minus ab quaerat ad qui rerum sapiente autem facilis? Doloremque officia quasi dignissimos id consequatur nam nihil labore maiores, fugiat eaque?\nLorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis nihil officia soluta dignissimos veniam molestiae dolore consequatur earum perspiciatis, hic totam magni perferendis fugit excepturi voluptatibus deleniti iusto, obcaecati fugiat.\nLorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis, fuga aspernatur soluta ipsum alias quis ipsam libero commodi enim doloremque dignissimos debitis minus adipisci dolorem nemo dicta consectetur accusantium nobis!"
+    },
+    {
+        "nome": "Copa do Mundo FIFA 2014",
+        "categorias": ["Esporte"],
+        "data_inicio": "12/06/2014",
+        "data_fim": "12/07/2014",
+        "preco": "R$ 600,00",
+        "localidade": {
+            "cidade": "Manaus",
+            "uf": "AM"
+        },
+        "descricao": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita unde reprehenderit provident nihil, similique sit, maxime facilis nobis laboriosam rerum fugiat esse iure ea odit amet assumenda, laborum labore maiores?\nLorem, ipsum dolor sit amet consectetur adipisicing elit. Iusto officia reiciendis ullam cupiditate recusandae doloribus. Culpa, accusantium cum. Quos rerum totam eveniet ea delectus tenetur, pariatur odit magni laboriosam alias.\nLorem ipsum dolor sit amet consectetur adipisicing elit. Sequi minus ab quaerat ad qui rerum sapiente autem facilis? Doloremque officia quasi dignissimos id consequatur nam nihil labore maiores, fugiat eaque?\nLorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis nihil officia soluta dignissimos veniam molestiae dolore consequatur earum perspiciatis, hic totam magni perferendis fugit excepturi voluptatibus deleniti iusto, obcaecati fugiat.\nLorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis, fuga aspernatur soluta ipsum alias quis ipsam libero commodi enim doloremque dignissimos debitis minus adipisci dolorem nemo dicta consectetur accusantium nobis!"
+    },
+    {
+        "nome": "Bemol Run",
+        "categorias": ["Esporte", "Cultura"],
+        "data_inicio": "30/08/2023",
+        "data_fim": "30/08/2023",
+        "preco": "R$ 100,00",
+        "localidade": {
+            "cidade": "Manaus",
+            "uf": "AM"
+        },
+        "descricao": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita unde reprehenderit provident nihil, similique sit, maxime facilis nobis laboriosam rerum fugiat esse iure ea odit amet assumenda, laborum labore maiores?\nLorem, ipsum dolor sit amet consectetur adipisicing elit. Iusto officia reiciendis ullam cupiditate recusandae doloribus. Culpa, accusantium cum. Quos rerum totam eveniet ea delectus tenetur, pariatur odit magni laboriosam alias.\nLorem ipsum dolor sit amet consectetur adipisicing elit. Sequi minus ab quaerat ad qui rerum sapiente autem facilis? Doloremque officia quasi dignissimos id consequatur nam nihil labore maiores, fugiat eaque?\nLorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis nihil officia soluta dignissimos veniam molestiae dolore consequatur earum perspiciatis, hic totam magni perferendis fugit excepturi voluptatibus deleniti iusto, obcaecati fugiat.\nLorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis, fuga aspernatur soluta ipsum alias quis ipsam libero commodi enim doloremque dignissimos debitis minus adipisci dolorem nemo dicta consectetur accusantium nobis!"
+    },
+    {
+        "nome": "Paço a Passo 2023",
+        "categorias": ["Música", "Dança", "Gastronomia", "Cultura"],
+        "data_inicio": "05/09/2023",
+        "data_fim": "07/09/2023",
+        "preco": "Gratuito",
+        "localidade": {
+            "cidade": "Manaus",
+            "uf": "AM"
+        },
+        "descricao": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita unde reprehenderit provident nihil, similique sit, maxime facilis nobis laboriosam rerum fugiat esse iure ea odit amet assumenda, laborum labore maiores?\nLorem, ipsum dolor sit amet consectetur adipisicing elit. Iusto officia reiciendis ullam cupiditate recusandae doloribus. Culpa, accusantium cum. Quos rerum totam eveniet ea delectus tenetur, pariatur odit magni laboriosam alias.\nLorem ipsum dolor sit amet consectetur adipisicing elit. Sequi minus ab quaerat ad qui rerum sapiente autem facilis? Doloremque officia quasi dignissimos id consequatur nam nihil labore maiores, fugiat eaque?\nLorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis nihil officia soluta dignissimos veniam molestiae dolore consequatur earum perspiciatis, hic totam magni perferendis fugit excepturi voluptatibus deleniti iusto, obcaecati fugiat.\nLorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis, fuga aspernatur soluta ipsum alias quis ipsam libero commodi enim doloremque dignissimos debitis minus adipisci dolorem nemo dicta consectetur accusantium nobis!"
+    },
+    {
+        "nome": "Festa da Laranja",
+        "categorias": ["Música", "Gastronomia", "Cultura"],
+        "data_inicio": "20/08/2022",
+        "data_fim": "21/08/2022",
+        "preco": "Gratuito",
+        "localidade": {
+            "cidade": "Rio Preto da Eva",
+            "uf": "AM"
+        },
+        "descricao": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita unde reprehenderit provident nihil, similique sit, maxime facilis nobis laboriosam rerum fugiat esse iure ea odit amet assumenda, laborum labore maiores?\nLorem, ipsum dolor sit amet consectetur adipisicing elit. Iusto officia reiciendis ullam cupiditate recusandae doloribus. Culpa, accusantium cum. Quos rerum totam eveniet ea delectus tenetur, pariatur odit magni laboriosam alias.\nLorem ipsum dolor sit amet consectetur adipisicing elit. Sequi minus ab quaerat ad qui rerum sapiente autem facilis? Doloremque officia quasi dignissimos id consequatur nam nihil labore maiores, fugiat eaque?\nLorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis nihil officia soluta dignissimos veniam molestiae dolore consequatur earum perspiciatis, hic totam magni perferendis fugit excepturi voluptatibus deleniti iusto, obcaecati fugiat.\nLorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis, fuga aspernatur soluta ipsum alias quis ipsam libero commodi enim doloremque dignissimos debitis minus adipisci dolorem nemo dicta consectetur accusantium nobis!"
+    },
+    {
+        "nome": "Festival Internacional da Canção - FECANI",
+        "categorias": ["Música", "Cultura"],
+        "data_inicio": "06/09/2023",
+        "data_fim": "09/09/2023",
+        "preco": "Gratuito",
+        "localidade": {
+            "cidade": "Itacoatiara",
+            "uf": "AM"
+        },
+        "descricao": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita unde reprehenderit provident nihil, similique sit, maxime facilis nobis laboriosam rerum fugiat esse iure ea odit amet assumenda, laborum labore maiores?\nLorem, ipsum dolor sit amet consectetur adipisicing elit. Iusto officia reiciendis ullam cupiditate recusandae doloribus. Culpa, accusantium cum. Quos rerum totam eveniet ea delectus tenetur, pariatur odit magni laboriosam alias.\nLorem ipsum dolor sit amet consectetur adipisicing elit. Sequi minus ab quaerat ad qui rerum sapiente autem facilis? Doloremque officia quasi dignissimos id consequatur nam nihil labore maiores, fugiat eaque?\nLorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis nihil officia soluta dignissimos veniam molestiae dolore consequatur earum perspiciatis, hic totam magni perferendis fugit excepturi voluptatibus deleniti iusto, obcaecati fugiat.\nLorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis, fuga aspernatur soluta ipsum alias quis ipsam libero commodi enim doloremque dignissimos debitis minus adipisci dolorem nemo dicta consectetur accusantium nobis!"
+    }
+]
